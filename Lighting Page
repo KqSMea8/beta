@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html class="">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">
+<title>LightingAPP</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta name="keywords" content="Powored By ZXP">
+<meta name="description" content="ZXP@ 2019 Conpy">
+<base href="//dama.lu/" />
+<link id="bs-css" href="https://dama.lu/Public/damalu/css/bootstrap.paper.min.css" data-href="https://dama.lu/Public/damalu/css/bootstrap.paper.min.css" rel="stylesheet" type="text/css">
+<link id="ng-css" data-href="https://dama.lu/Public/damalu/css/bootstrap.cyborg.min.css" rel="stylesheet" type="text/css">
+<link href="https://dama.lu/Public/damalu/css/wodecss.css?v1708291" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="https://dama.lu/Public/damalu/js/jquery.min.js"></script>
+<script src="https://dama.lu/Public/damalu/js/html.sortable.min.js"></script>
+<script src="https://dama.lu/Public/damalu/js/bootstrap.min.js"></script>
+<script>var user_data = null;</script>
+</head>
+
+<body>
+ 
+                				<ul class="recommonds">
+					 </li>
+                    <li data_old="4" class="sigleRecommond">
+                        <span old_del="4" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://common.diditaxi.com.cn/general/webEntry?wx=true&bizid=257&channel=70365#/" title="滴滴出行" target="_blank">
+                            <img class="img-links2" src="http://zxp2015.usa3v.net/diditaxi.png" style="box-shadow: rgba(220, 156, 156, 0.75) 0 10px 10px -6px;">
+                            <span class="text-links">滴滴出行</span>
+                        </a>
+					</li>
+                    <li data_old="4" class="sigleRecommond">
+                        <span old_del="4" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://tieba.baidu.com/" title="百度贴吧" target="_blank">
+                            <img class="img-links2" src="http://zxp2015.usa3v.net/tieba.png" style="box-shadow: rgba(220, 156, 156, 0.75) 0 10px 10px -6px;">
+                            <span class="text-links">百度贴吧</span>
+                        </a>	
+						</li>
+                    <li data_old="4" class="sigleRecommond">
+                        <span old_del="4" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="http://www.miui.com/getrom.php" title="MIUI论坛" target="_blank">
+                            <img class="img-links2" src="http://zxp2015.usa3v.net/miuifroum.png" style="box-shadow: rgba(220, 156, 156, 0.75) 0 10px 10px -6px;">
+                            <span class="text-links">MIUI论坛</span>
+                        </a>	
+						</li>
+                    <li data_old="4" class="sigleRecommond">
+                        <span old_del="4" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://m.mi.com" title="小米商城" target="_blank">
+                            <img class="img-links2" src="http://zxp2015.usa3v.net/mishop.png" style="box-shadow: rgba(220, 156, 156, 0.75) 0 10px 10px -6px;">
+                            <span class="text-links">小米商城</span>
+                        </a>	
+                    </li>
+                    <li data_old="4" class="sigleRecommond">
+                        <span old_del="4" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://m.toutiao.com/" title="今日头条" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/toutiao.jpg" style="box-shadow: rgba(220, 156, 156, 0.75) 0 10px 10px -6px;">
+                            <span class="text-links">今日头条</span>
+                        </a>
+						 <li data_old="4" class="sigleRecommond">
+                        <span old_del="4" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="http://wx.qq.com" title="微信HD" target="_blank">
+                            <img class="img-links2" src="http://zxp2015.usa3v.net/weixin.png" style="box-shadow: rgba(220, 156, 156, 0.75) 0 10px 10px -6px;">
+                            <span class="text-links">微信HD</span>
+                        </a>
+                    </li>
+                    <li data_old="7" class="sigleRecommond">
+                        <span old_del="7" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://www.zhihu.com/" title="知乎" target="_blank">
+                            <img class="img-links2" src="https://dama.lu/Public/damalu/pic/zhihu.png" style="box-shadow: rgba(22, 144, 244, 0.75) 0 10px 10px -6px;">
+                            <span class="text-links">知乎</span>
+                        </a>
+                    </li>
+                    <li data_old="2" class="sigleRecommond">
+                        <span old_del="2" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://pan.baidu.com/wap/welcome" title="百度云" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/baiduyun.png" style="box-shadow: rgb(202, 202, 202) 0 10px 10px -6px;">
+                            <span class="text-links">百度云</span>
+                        </a>
+                    </li>
+                    <li data_old="15" class="sigleRecommond">
+                        <span old_del="15" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://m.weibo.cn/" title="新浪微博" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/13_81b410c.png" style="box-shadow: 0 10px 10px -6px rgba(255, 223, 128, 0.75);">
+                            <span class="text-links">微博</span>
+                        </a>
+                    </li>
+                    <li data_old="16" class="sigleRecommond">
+                        <span old_del="16" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="http://m.taobao.com/" title="淘宝" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/7_fd6028a.png" style="box-shadow: 0 10px 10px -6px rgba(252, 67, 0, 0.75);">
+                            <span class="text-links">淘宝</span>
+                        </a>
+                    </li>
+                    <li data_old="19" class="sigleRecommond">
+                        <span old_del="19" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="http://m.iqiyi.com/" title="爱奇艺" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/10_0d65781.png" style="box-shadow: 0 10px 10px -6px rgba(7, 218, 0, 0.75);">
+                            <span class="text-links">爱奇艺</span>
+                        </a>
+                    </li>
+                    <li data_old="20" class="sigleRecommond">
+                        <span old_del="20" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="http://www.youku.com/" title="优酷网" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/11_f3f7f3b.png" style="box-shadow: 0 10px 10px -6px rgba(213, 213, 213, 0.75);">
+                            <span class="text-links">优酷</span>
+                        </a>
+                    </li>
+                    <li data_old="22" class="sigleRecommond">
+                        <span old_del="22" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="http://m.v.qq.com/" title="腾讯视频" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/txshipin.png" style="box-shadow: 0 10px 10px -6px rgb(164, 201, 185);">
+                            <span class="text-links">腾讯视频</span>
+                        </a>
+                    </li>
+                    <li data_old="23" class="sigleRecommond">
+                        <span old_del="23" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="http://m.bilibili.com/" title="哔哩哔哩" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/bilibili.png" style="box-shadow: 0 10px 10px -6px rgba(209, 80, 117, 0.75);">
+                            <span class="text-links">哔哩哔哩</span>
+                        </a>
+                    </li>
+                    <li data_old="24" class="sigleRecommond">
+                        <span old_del="24" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="http://music.163.com/" title="网易云音乐" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/wangyiyun.png" style="box-shadow: 0 10px 10px -6px rgba(241, 33, 0, 0.75);">
+                            <span class="text-links">网易云音乐</span>
+                        </a>
+                    </li>
+					<li data_old="25" class="sigleRecommond">
+                        <span old_del="25" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="http:m.pinduoduo.com" title="拼多多" target="_blank">
+                            <img class="img-links2" src="http://zxp2015.usa3v.net/pinduoduo.png" style="box-shadow: 0 10px 10px -6px rgba(118, 173, 210, 0.75);">
+                            <span class="text-links">拼多多</span>
+                        </a>
+						 </li>
+						 </li>
+					<li data_old="25" class="sigleRecommond">
+                        <span old_del="25" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="http:m.kugou.com" title="酷狗音乐" target="_blank">
+                            <img class="img-links2" src="http://zxp2015.usa3v.net/kgmusic.png" style="box-shadow: 0 10px 10px -6px rgba(118, 173, 210, 0.75);">
+                            <span class="text-links">酷狗音乐</span>
+                        </a>
+						 </li>
+					<li data_old="25" class="sigleRecommond">
+                        <span old_del="25" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="http://m.baidu.com" title="百度" target="_blank">
+                            <img class="img-links2" src="http://zxp2015.usa3v.net/baidu.png" style="box-shadow: 0 10px 10px -6px rgba(118, 173, 210, 0.75);">
+                            <span class="text-links">百度</span>
+                        </a>
+                    </li>
+                    <li data_old="26" class="sigleRecommond">
+                        <span old_del="26" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="http://m.jd.com/" title="京东商城" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/26_ce19bec.png" style="box-shadow: 0 10px 10px -6px rgba(249, 52, 61, 0.75);">
+                            <span class="text-links">京东</span>
+                        </a>
+						</li>
+                    <li data_old="26" class="sigleRecommond">
+                        <span old_del="26" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="http://zxp2015.usa3v.net/lightingapp-kf.apk" title="京东商城" target="_blank">
+                            <img class="img-links2" src="http://zxp2015.usa3v.net/downkf.png" style="box-shadow: 0 10px 10px -6px rgba(249, 52, 61, 0.75);">
+                            <span class="text-links">开发版下载</span>
+                        </a>
+						</li>
+                    <li data_old="26" class="sigleRecommond">
+                        <span old_del="26" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="http://zxp2015.usa3v.net/lightingapp-cs.apk" title="京东商城" target="_blank">
+                            <img class="img-links2" src="http://zxp2015.usa3v.net/android.png" style="box-shadow: 0 10px 10px -6px rgba(249, 52, 61, 0.75);">
+                            <span class="text-links">测试版下载</span>
+                        </a>
+                    </li>
+                </ul>
+                <div class="hide" id="tpl-box">
+                    <li data_add="0" class="item sigleRecommond">
+                        <span add_del="0" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="" title="" target="_blank">
+                            <span class="icon-box"></span>
+                            <span class="text-links"></span>
+                        </a>
+                    </li>
+                </div>
+            </div> 
+        </div>
